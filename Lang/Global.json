@@ -1,0 +1,51 @@
+{
+ "embeds": [
+  {
+   "title": "What you need to know about roles and who you should listen to !",
+   "color": "#ff0000",
+   "fields": [
+    {
+     "name": "Roles per application",
+     "value": [
+      "<@&1247169545404157952>  **Partner**, you can get it if you apply in your chat (you can make it as you want, the main thing is that we see the basis and if possible links there to social network or group).",
+      "",
+      "<@&865920403117834240>  **Helper**, not much right but it's a start to moderating the server ",
+      "",
+      "<@&1233854377895264346> **Verification of Moderation**, if you apply for a promotion, you will get a role like this, then another will be given, or left as is.",
+      "",
+      "<@&1233854552130715748> Our defenders, already serious people should be there.",
+      "",
+      "<@&835553128354938910> The chapter on the management of 3 points of those, but he is also the right hand of <@&894891903462559775>, they are in charge of moderators completely"
+     ],
+     "inline": false
+    },
+    {
+     "name": "Roles for using chat",
+     "value": "<#1227677283049930782> To open a chat room with the desired language, go to that channel (don't add all of them, because you don't REALLY know all the languages).",
+     "inline": false
+    }
+   ],
+   "footer": {
+    "text": "You can help us with the translation on this page !"
+   }
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 2,
+     "style": 5,
+     "label": "Translated",
+     "url": "https://github.com/LiveOne-Discord-server/Info-LiveOne",
+     "emoji": {
+      "id": "1148552451541192724",
+      "name": "TohruThumbsUp",
+      "animated": true
+     }
+    }
+   ]
+  }
+ ]
+}
