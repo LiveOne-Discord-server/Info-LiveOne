@@ -2,6 +2,6 @@
 
 * Translation of Information
 
-- There's only on :
+----- There's only on :
 
-+ global
+🌏 global
