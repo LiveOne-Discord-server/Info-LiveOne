@@ -1,29 +1,66 @@
 {
- "embeds": [
-  {
-   "title": "What is LiveOne !",
-   "fields": [
-    {
-     "name": "Hmmm...",
-     "value": "LiveOne (previously called BanLive) - server with open source and community, our task on the server.....mmm honestly do not know, we created the server for the purpose of community and help the people, communicate, have fun and if anything, contact us, and a little information who is the leader here.",
-     "inline": false
-    },
-    {
-     "name": "3 Heads",
-     "value": [
-      "<@547844730663206938> Not the creator of the server but he is the main owner of the server itself and many LiveOne communities at the moment.",
-      "",
-      "<@295159756669059073>  License to the 1st, but he also does not sit still, cheer up and answer your questions if anything).",
-      "",
-      "<@614392313325551618> The technical administrator is who moderators should be afraid of when making requests, she often sits invisible but is online at all times."
-     ],
-     "inline": false
-    }
-   ],
-   "color": "#2d2d2d",
-   "image": {
-    "url": "https://i.gifer.com/OtKo.gif"
+    "embeds": [
+     {
+      "title": "What is LiveOne !",
+      "fields": [
+       {
+        "name": "Hmmm...",
+        "value": "LiveOne (previously called BanLive) - server with open source and community, our task on the server.....mmm honestly do not know, we created the server for the purpose of community and help the people, communicate, have fun and if anything, contact us, and a little information who is the leader here.",
+        "inline": false
+       },
+       {
+        "name": "3 Heads",
+        "value": [
+         "<@547844730663206938> Not the creator of the server but he is the main owner of the server itself and many LiveOne communities at the moment.",
+         "",
+         "<@295159756669059073>  License to the 1st, but he also does not sit still, cheer up and answer your questions if anything).",
+         "",
+         "<@614392313325551618> The technical administrator is who moderators should be afraid of when making requests, she often sits invisible but is online at all times."
+        ],
+        "inline": false
+       }
+      ],
+      "color": "#2d2d2d",
+      "image": {
+       "url": "https://i.gifer.com/OtKo.gif"
+      }
+     }
+    ],
+    "components": [
+     {
+      "type": 1,
+      "components": [
+       {
+        "type": 2,
+        "style": 5,
+        "label": "Translat",
+        "emoji": {
+         "id": "1148552451541192724",
+         "name": "TohruThumbsUp",
+         "animated": true
+        },
+        "url": "https://github.com/LiveOne-Discord-server/Info-LiveOne"
+       },
+       {
+        "type": 2,
+        "style": 1,
+        "label": "",
+        "custom_id": "UA-info",
+        "emoji": {
+         "name": "🇺🇦"
+        }
+       },
+       {
+        "type": 2,
+        "style": 1,
+        "label": "",
+        "custom_id": "RU-info",
+        "emoji": {
+         "name": "🇷🇺"
+        }
+       }
+      ]
+     }
+    ]
    }
-  }
- ]
-}
+   
